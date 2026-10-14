@@ -3,7 +3,7 @@
 A simple and interactive command-line game written in Java where the player tries to guess a randomly generated number within a minimum number of attempts.
 
 ## How It Works
-
+ 
 1. The program generates a random natural number between 1 and 100.
 2. The user is prompted to enter a guess.
 3. The game provides hints indicating whether the guessed number is too high or too low.
