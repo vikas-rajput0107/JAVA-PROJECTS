@@ -1,0 +1,8 @@
+# Ignore all VS Code folder contents
+.vscode/
+
+# Ignore VS Code local history files
+.history/
+
+# Ignore workspace files
+*.code-workspace
