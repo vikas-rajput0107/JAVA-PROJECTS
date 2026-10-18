@@ -16,7 +16,6 @@ public class no_of_prime_numbers {
 
 
 
-
         public static void primeNum(int n){
             int total_prime_numbers = 0;
             int[] primeArray = new int[n];
